@@ -10,7 +10,7 @@ var licencias = [
   {
     id: "dominio-publico",
     nombre: "Dominio público",
-    img: "Dominio_p%C3%BAblico.png",
+    img: "Dominio-publico.png",
     descripcion: "Obras no protegidas por derechos de autor, ya sea porque han expirado o porque el autor ha renunciado a ellos. Cualquiera puede copiar, modificar, distribuir y usar la obra libremente, sin necesidad de atribución."
   },
   {
